@@ -1,0 +1,9 @@
+C:\Users\stephen.thomas\source\repos\FormApp\FormApp\bin\Debug\FormApp.exe.config
+C:\Users\stephen.thomas\source\repos\FormApp\FormApp\bin\Debug\FormApp.exe
+C:\Users\stephen.thomas\source\repos\FormApp\FormApp\bin\Debug\FormApp.pdb
+C:\Users\stephen.thomas\source\repos\FormApp\FormApp\obj\Debug\FormApp.csprojAssemblyReference.cache
+C:\Users\stephen.thomas\source\repos\FormApp\FormApp\obj\Debug\FormApp.Form1.resources
+C:\Users\stephen.thomas\source\repos\FormApp\FormApp\obj\Debug\FormApp.Properties.Resources.resources
+C:\Users\stephen.thomas\source\repos\FormApp\FormApp\obj\Debug\FormApp.csproj.GenerateResource.cache
+C:\Users\stephen.thomas\source\repos\FormApp\FormApp\obj\Debug\FormApp.exe
+C:\Users\stephen.thomas\source\repos\FormApp\FormApp\obj\Debug\FormApp.pdb
