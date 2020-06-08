@@ -28,7 +28,7 @@ namespace FormApp
             InitializeComponent();
             SetTrainID(1007);
             SetSpeed(100);
-            SetBarrier(50, 100);
+            SetBarrier(75, 100);
             EnableMode1();
             SetProgressBarValue(83);
             EnableMode3();

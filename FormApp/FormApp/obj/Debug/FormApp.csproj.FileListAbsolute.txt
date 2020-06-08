@@ -10,3 +10,4 @@ C:\Users\stephen.thomas\source\repos\FormApp\FormApp\obj\Debug\FormApp.csprojAss
 C:\Users\stephen.thomas\source\repos\FormApp\FormApp\bin\Debug\System.Runtime.WindowsRuntime.dll
 C:\Users\stephen.thomas\source\repos\FormApp\FormApp\bin\Debug\System.Runtime.WindowsRuntime.xml
 C:\Users\stephen.thomas\source\repos\FormApp\FormApp\obj\Debug\FormApp.csproj.CopyComplete
+C:\Users\stephen.thomas\source\repos\FormApp\FormApp\obj\Debug\FormApp.csproj.CoreCompileInputs.cache
